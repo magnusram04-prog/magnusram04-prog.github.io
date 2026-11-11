@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "no.lettfagprove.app",
+        "sha256_cert_fingerprints": ["44:C7:C0:77:EF:9E:98:02:07:AE:3E:44:03:A2:BC:EB:27:09:A1:49:FB:87:44:EC:15:94:CA:4C:24:9A:C0:AF"]
+      }
+    }]
